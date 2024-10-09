@@ -6,8 +6,12 @@
 
 .btn {
   height: 100vh;
-  width: 100vh;
+  width: 100vw;
   border-radius: 50px;
   background: #3cb518;
   color: white;
+}
+
+h1 {
+  background: #3cb518;
 }
